@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: res.interests
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: utilities
     values:
       layout: talk
       author_profile: true
