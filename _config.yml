@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Larissa Sugai"
+  name             : #"Larissa Sugai"
   avatar           : "profile.png"
   bio              : "Acoustic communication in ecological communities"
   location         : "Brazil / Spain (Madrid)"
