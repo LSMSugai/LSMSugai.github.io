@@ -9,5 +9,6 @@ redirect_from:
 ---
 
 And thanks for visiting my website!
+
 I'm an ecologist interested in the behavioral facet of ecological communities, with particular interest in acoustic communication and bioacoustics.
 Here you can find more about my [research interests](),
