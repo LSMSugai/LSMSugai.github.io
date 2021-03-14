@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2020-climatic_breadth
 date: 2020-10-01
 venue: 'Global Change Biology'
-paperurl: 'https://doi.org/10.1111/1365-2656.13399'
+paperurl: 'https://doi.org/10.1111/gcb.15266'
 citation: 'Bonnefond, A; Courtois, EA; Sueur, J; Sugai, LSM; Llusia, Diego. (2021). &quot;Climatic breadth of calling behaviour in two widespread Neotropical frogs: Insights from humidity extremes.&quot; <i>Global Change Biology</i>. 26(10):5431-5446.'
 ---
-Anaïs Bonnefond, Elodie A Courtois, Jérôme Sueur, Larissa Sayuri M Sugai, Diego Llusia
