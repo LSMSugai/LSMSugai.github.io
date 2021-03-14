@@ -1,7 +1,7 @@
 ---
 title: "Drivers of assemblage‐wide calling activity in tropical anurans and the role of temporal resolution"
 collection: publications
-permalink: /publication/2021-03-01-drivers_assemblage_wide.md
+permalink: /publication/2021-03-01-drivers_assemblage_wide
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-03-01
 venue: 'Journal of Animal Ecology'
