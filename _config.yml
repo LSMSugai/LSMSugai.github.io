@@ -184,7 +184,7 @@ collections:
   utilities:
     output: true
     permalink: /:collection/:path/
-  talks:
+  posts:
     output: true
     permalink: /:collection/:path/
 
