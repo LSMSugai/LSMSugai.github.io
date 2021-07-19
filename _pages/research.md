@@ -5,6 +5,12 @@ permalink: /res.interests/
 author_profile: true
 ---
 
--	Social and species interactions mediated by acoustic communication
+- Biodiversity change at multiple spatial and temporal scales
+
 -	Community ecology and assembly in tropical ecosystems
+
+- Technologies in Biodiversity assessment
+
+-	Social and species interactions mediated by acoustic communication
+
 -	Bioacoustics/Ecoacoustics
