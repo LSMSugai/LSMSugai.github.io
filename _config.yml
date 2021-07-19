@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Larissa Sugai"
   avatar           : "profile.png"
-  bio              : "Acoustic communication in ecological communities"
+  bio              : "Acoustic monitoring of Biodiversity change"
   location         : "Brazil / Spain (Madrid)"
   employer         :
   pubmed           :
@@ -184,7 +184,7 @@ collections:
   utilities:
     output: true
     permalink: /:collection/:path/
-  
+
 
 
 # Defaults
