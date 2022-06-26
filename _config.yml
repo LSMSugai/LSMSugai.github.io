@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Larissa Sayuri M. Sugai"
 title_separator          : "-"
 name                     : &name "Larissa"
-description              : &description "Postdoctoral researcher"
+description              : &description "Extension Associate"
 url                      : https://lsmsugai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsmsugai.github.io"
@@ -83,7 +83,7 @@ author:
   name             : #"Larissa Sugai"
   avatar           : "profile.png"
   bio              : "Acoustic monitoring of Biodiversity change"
-  location         : "Brazil / Spain (Madrid)"
+  location         : "Brazil / Ithaca (NY)"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=qVSvUXYAAAAJ&hl=pt-PT&oi=ao"
