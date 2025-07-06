@@ -47,14 +47,14 @@ $type-size-syntax           : 0.875em;  // ~14px
    Colors
    ========================================================================== */
 
-$gray                       : #fea49f;
+$gray                       : #1a0033;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#FDFBD4, $gray, 50%);
-$lighter-gray               : mix(#FDFBD4, $gray, 90%);
+$light-gray                 : mix(#f4f6f6, $gray, 50%);
+$lighter-gray               : mix(#f4f6f6, $gray, 90%);
 
-$body-color                 : #FDFBD4;
-$background-color           : #FDFBD4;
+$body-color                 : #f4f6f6;
+$background-color           : #f4f6f6;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
